@@ -27,7 +27,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("你只需要比昨天强一点");
 		System.out.println("还是要做一次修稿");
-		
 	}
 
 }
