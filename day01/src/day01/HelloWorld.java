@@ -25,6 +25,7 @@ public class HelloWorld {
 		//  这一对大括号之间 是main方法的方法体
 		//执行main方法，就是在执行这一对大括号中的内容
 		System.out.println("Hello World");
+		System.out.println("你只需要比昨天强一点");
 		
 	}
 
